@@ -1,0 +1,14 @@
+{
+  "name": "node-express-api",
+  "version": "0.1.0",
+  "description": "REST API in Express on NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Shaw",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
